@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Batt Sample</string>
+    <string name="batt_level">Battery Charge %</string>
+    <string name="batt_con">Battery Connection</string>
+    <string name="batt_state">Battery State</string>
+    <string name="na">N/A</string>
+</resources>
